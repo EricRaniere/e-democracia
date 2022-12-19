@@ -11,3 +11,4 @@ Arquivos:
 2) audiencias_2022.csv - audiências armazenadas de maneira tabular em csv até o ano de 2022 (última atualização 19/12/2022)
 3) usuarios_2022.csv - usuários armazenadas de maneira tabular em csv até o ano de 2022 (última atualização 19/12/2022)
 4) mensagens_2022.zip - mensagens armazenadas de maneira tabular em csv até o ano de 2022 (última atualização 19/12/2022)
+5) compilado.zip - compilado dos 3 arquivos csv
